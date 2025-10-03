@@ -1,0 +1,17 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "This is a test to apply to Hitss. The challenge is about to extract the top 5 most expensive Playstation 5 in MercadoLibre, according to the filters of 'new' and 'local shipping'",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "Mauricio Coronel Lovera",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.6.2"
+  }
+}
