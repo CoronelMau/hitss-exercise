@@ -21,9 +21,8 @@ The script automates a browser to perform the search, apply filters, and extract
 
 ## 🛠️ Technologies
 
-- **Node.js**
-- **Playwright** (with Chromium browser)
-- **JavaScript (ES Modules)**
+- **Playwright**
+- **JavaScript**
 
 ---
 
