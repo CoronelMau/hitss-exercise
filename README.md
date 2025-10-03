@@ -91,4 +91,4 @@ _(Example only — actual results depend on MercadoLibre’s current listings.)_
 
 ## 📜 License
 
-This project is for **educational purposes only**. It scrapes public product data from MercadoLibre for demonstration.
+It scrapes public product data from MercadoLibre for demonstration.
